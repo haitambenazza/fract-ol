@@ -9,4 +9,4 @@
     -run 'make bonus' to compile the objects for burning ship fract
     -run './fractol_bonus' to run the fractal
     -run 'clean or fclean' to delete the programs
-# LIBRARY LINK: https://drive.google.com/drive/folders/11nLHH5AZQnhojEoV6GQxhn1FwZ6JZc5g?usp=sharing
+# LIBRARY LINK: https://drive.google.com/drive/folders/1be12iVGbtCpWVnbcOS1a_4q60_r5eGTK?usp=drive_link
