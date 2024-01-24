@@ -18,7 +18,7 @@ SRC = mandelbrot.c render.c events.c main.c tools.c julia.c initial.c parcing.c
 
 MLX =  -Lminilibx-linux -lmlx_Linux -lX11 -lXext -lm
 
-CFLAGS = -Wall -Werror -Wextra
+CFLAGS = -Wall -Werror -Wextra -O3
 
 CC = cc
 
